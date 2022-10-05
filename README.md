@@ -1,4 +1,4 @@
-# AnalyzingPortfolioRisk-Profit
+# Analyzing Portfolio Risk-Profit
 
 This is a Python application that utilizes native Python libraries such as Pandas, Numpy, matplotlib and it uses JupyterLab is a web-based user interface that you use to run and review the syntax code what is refer to as Notebook.  This notebook allows the user to produce quantitative analizes on selected portfolios using the SP500 as base of comparison.  The notebook helps illustrate and compare investment key risk-management metrics such: the daily returns, standard deviations, Sharpe ratios, and betas.  The application works by taking NAV price history from a '.csv' file 'whales.csv' and the user plots.
 
